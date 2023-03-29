@@ -1,6 +1,6 @@
 # spaceid-checker
 
-<h1>Space ID Domain Checker<h2>
+<h1>Space ID Domain Checker</h1>
 This script allows you to check for available domains to buy on the Space ID platform. It uses the Space ID GraphQL API to retrieve a list of domains that match your search query and checks for domains that meet the following criteria:
 
 Domain is not currently owned by anyone
