@@ -7,7 +7,7 @@
 <ul>
   <li>Domain is not currently owned by anyone</li>
   <li>Domain has an expiration date of 0</li>
-  <li>Domain is listed for sale at a price of 5 (in the native cryptocurrency of the network)</li>
+  <li>Domain is listed for sale at a price of 5 USD</li>
 </ul>
 
 <p>If a domain meets all of these criteria, the script prints its name and network (either .eth, .bnb, or .arb) along with its list price (if available).</p>
