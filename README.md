@@ -17,11 +17,11 @@
 <ol>
   <li>Clone this repository to your local machine</li>
   <li>Install the required packages by running the following command in the project directory:</li>
-  <pre>&lt;code&gt;$ pip install -r requirements.txt&lt;/code&gt;</pre>
+  <pre>$ pip install -r requirements.txt</pre>
   <li>Create a file named <code>combinations.txt</code> in the root directory of the repository, containing a list of domain name combinations to search for, one per line. For example:</li>
-  <pre>&lt;code&gt;apple<br>banana<br>cherry&lt;/code&gt;</pre>
+  <pre>apple<br>banana<br>cherry</pre>
   <li>Run the script by running the following command in the project directory:</li>
-  <pre>&lt;code&gt;$ python run.py&lt;/code&gt;</pre>
+  <pre>$ python run.py</pre>
 </ol>
 
 <h2>Notes</h2>
