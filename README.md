@@ -11,7 +11,7 @@ If a domain meets all of these criteria, the script prints its name and network 
 1. Clone this repository to your local machine<br>
 2. Install the required packages by running 
 3. <pre>```
-pip
+sh
 4. pip install -r requirements.txt```</pre>
 5. <br>
 6. Create a file named combinations.txt in the root directory of the repository, containing a list of domain name combinations to search for, one per line. For example:<br>
